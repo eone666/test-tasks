@@ -2,8 +2,8 @@
 
 ## Order
 
-- invoice-test
-- rating-test
-- welcome_to_TE
-- alinakz-test
-- raison-test
+1. invoice-test
+1. rating-test
+1. welcome_to_TE
+1. alinakz-test
+1. raison-test
